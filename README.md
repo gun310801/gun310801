@@ -24,8 +24,8 @@ Check out some of the exciting projects I've worked on:
 
 ## 📫 Let's Connect:
 Feel free to reach out to me for collaborations, projects, or just to chat about data science and AI!  
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
-- [Email](mailto:gluthra@stevens.edu)  
+- [LinkedIn](www.linkedin.com/in/gunikluthra)  
+- [Email](mailto:gunikluthra@outlook.com)  
 
 
 <!--
