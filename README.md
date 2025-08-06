@@ -4,9 +4,11 @@ Data & AI Engineer building production-ready systems that turn chaotic data into
 
 ## 🚀 What I Build
 
--Multi-agent AI systems using LangChain + CrewAI for automated content generation
--End-to-end ML pipelines processing millions of records with production-grade accuracy
--Intelligent data workflows that bridge research concepts with scalable implementations
+Multi-agent AI systems using LangChain + CrewAI for automated content generation
+
+End-to-end ML pipelines processing millions of records with production-grade accuracy
+
+Intelligent data workflows that bridge research concepts with scalable implementations
 
 ## 🔧 Technologies & Tools I Use:
 - **Programming Languages**: Python, SQL, NoSQL, Pyspark
